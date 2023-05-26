@@ -1,0 +1,24 @@
+body {
+    margin: 20px 100px 20px 100px;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(197, 206, 178);
+    border: solid 10px;
+    border-color: red;
+}
+
+p {
+    font-weight: bold;
+    background-color: rgb(226, 177, 152);
+    border: solid 20px;
+    border-color: rgb(0, 0, 107);
+    padding: 10px 30px 10px 10px;
+    font-size: 20px;
+}
+
+div.div1 {
+    border: solid blue;
+    border-width: 10% ;
+}
