@@ -1,0 +1,19 @@
+.bg-dark{
+ background-color: black !important;
+ 
+}
+.imgs{
+    border-collapse: separate;
+    width: 250px;
+    height: 200px;
+    margin: 50% 0 12% 200%;
+
+}
+td{
+    padding: 10px;
+}
+.navbar-collapse{
+    position: absolute !important;
+    width: 100% !important;
+    margin: 0 0 0 85% !important;
+}
